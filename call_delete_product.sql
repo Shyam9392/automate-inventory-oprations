@@ -1,0 +1,1 @@
+CALL delete_product(1);

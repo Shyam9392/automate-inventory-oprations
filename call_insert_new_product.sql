@@ -1,0 +1,1 @@
+CALL insert_new_product('Gaming Mouse', 1, 2, 1500.00, 100, FALSE);

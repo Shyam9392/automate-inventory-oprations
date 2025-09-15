@@ -1,0 +1,1 @@
+CALL mark_product_discontinued(1);

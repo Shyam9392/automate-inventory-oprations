@@ -1,0 +1,1 @@
+CALL receive_stock(1);

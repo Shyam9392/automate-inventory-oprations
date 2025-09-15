@@ -1,0 +1,1 @@
+CALL update_product_stock(1, 200);
